@@ -1,4 +1,4 @@
-# Lending-Club-loan-analysis
+# Lending-Club-loan-analysis (2007-2015)
 Analysis on lending club loans to identify characteristics of defaulters and loans in the market. 
 
 ## Inspriration
