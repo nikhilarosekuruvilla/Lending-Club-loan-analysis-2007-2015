@@ -15,7 +15,7 @@ So, we were excited to find out how their loans performed and what their default
 To visualize the meaningful insights we get thorugh our analysis from the Lending club dataset under consideration. 
 
 ## Link to Python Notebook
-[Click here](http://nbviewer.jupyter.org/github/nikhilarosekuruvilla/Lending-Club-loan-analysis/blob/master/Lending%20Club%20-%20Data%20Visualization.ipynb#Introduction)
+[Click here](http://nbviewer.jupyter.org/github/nikhilarosekuruvilla/Lending-Club-loan-analysis/blob/master/Lending%20Club%20-%20Data%20Visualization.ipynb)
 
 ## Links to Dataset
 The [dataset](https://www.kaggle.com/husainsb/lendingclub-issued-loans) we analysed had lending club loan data from 2007 through 2015. Our data is a matrix of about 890 thousand observations and 74 variables. We have merged the below datasets with the parent dataset for our analysis:
