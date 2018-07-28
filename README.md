@@ -56,6 +56,8 @@ The [dataset](https://www.kaggle.com/husainsb/lendingclub-issued-loans) we analy
 ![figure3](https://github.com/nikhilarosekuruvilla/Lending-Club-loan-analysis-2007-2015/blob/master/Visualization/Job%20Title%20wordcloud.PNG)
 * The above word cloud shows the top 40 employment titles for loans issued between 2007-2015. It seems borrowers with title Teachers and Managers take loans more often compared to other borrowers.
     
-
+## Future Scope
+* Predicting default loan payments based on borrower information, using predictive modeling.
+* Time series analysis on loans.
 
 
