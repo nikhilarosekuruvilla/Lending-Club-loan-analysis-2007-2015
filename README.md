@@ -37,23 +37,23 @@ The [dataset](https://www.kaggle.com/husainsb/lendingclub-issued-loans) we analy
 ## Insights
 > ### 1st Visualization : Riskier the loan, Higher the interest rate
 
-![figure1](https://github.com/nikhilarosekuruvilla/Lending-Club-loan-analysis/blob/master/Images/Average%20Interest%20Rate%20By%20Loan%20Grade%20(2007-2015).png)
+![figure1](https://github.com/nikhilarosekuruvilla/Lending-Club-loan-analysis-2007-2015/blob/master/Visualization/Average%20Interest%20Rate%20By%20Loan%20Grade%20(2007-2015).png)
 * Loan Grade represents default risk in order from 'A' to 'G' as low to high risk. As it can be seen from the graph interest rates remain higher for riskier loan grades.
 * Also, over the years interest rates have increased with higher rates for loans in grade C,D,E,F,G. We think it could be due to 2008 _Recession_. 
 * For least risky loans, grade- A,B the interest rates have remained pretty much steady and eventually came down.
 
 > ### 2nd Visualization : Best 5 Loan Borrowing States
 
-![figure2](https://github.com/nikhilarosekuruvilla/Lending-Club-loan-analysis/blob/master/Images/Loans%20Issued%20per%20State%20(2007-2015).png)
+![figure2](https://github.com/nikhilarosekuruvilla/Lending-Club-loan-analysis-2007-2015/blob/master/Visualization/_%20Loans%20Issued%20per%20State%20(2007-2015).png)
 * As chart above shows more than 40% loans are issued to residents of _California, Newyork, Texas, Florida and Illinois_. Barely 500 loans combined are issued to residents of _Idaho, Iowa, North Dakota_ 
 
-![figure4](https://github.com/nikhilarosekuruvilla/Lending-Club-loan-analysis/blob/master/Images/Default%20Rate%20%26%20No.of%20Loans%20vs%20States.png)
+![figure4](https://github.com/nikhilarosekuruvilla/Lending-Club-loan-analysis-2007-2015/blob/master/Visualization/Default%20Rate%20_%20Total%20Loans%20vs%20States.png)
 * There is no clear indication that states with highest number of loans borrowed _e.g. California_ have the tendency to default more compared to borrowers of other states.
 * The perception of higher defaults in _California, Newyork, Texas, Florida,Illinois_  can be maily due to higher population size of these advanced states. Thus, even though the top five borrowing states have highest number of defaults, it is not complusively because of higher default rates.
 
 > ### 3rd Visualization : Employee Title Analysis
 
-![figure3](https://github.com/nikhilarosekuruvilla/Lending-Club-loan-analysis/blob/master/Images/Employee%20Title%20Analysis.png)
+![figure3](https://github.com/nikhilarosekuruvilla/Lending-Club-loan-analysis-2007-2015/blob/master/Visualization/Job%20Title%20wordcloud.PNG)
 * The above word cloud shows the top 40 employment titles for loans issued between 2007-2015. It seems borrowers with title Teachers and Managers take loans more often compared to other borrowers.
     
 
